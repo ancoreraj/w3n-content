@@ -13,8 +13,7 @@ export const Content = () => {
                     Dec 4 (Reuters) - Bitcoin dropped 8.4% to $49,228.82 at 20:01 GMT on Saturday, losing $4,514.87 from its previous close. Bitcoin, the world's biggest and best-known cryptocurrency, is down 28.7% fr from its previous close. Bitcoin, the world's biggest and best-known cryptocurrency, is down 28.7% fro from its previous close. Bitcoin, the world's biggest and best-known cryptocurrency, is down 28.7% fro
                         from its previous close. Bitcoin, the world's biggest and best-known cryptocurrency, is down 28.7% fro
                     Dec 4 (Reuters) - Bitcoin dropped 8.4% to $49,228.82 at 20:01 GMT on Saturda
-                        from its previous close. Bitcoin, the world's biggest and best-known cryptocurrency, is down 28.7% fro
-                    Dec 4 (Reuters) - Bitcoin dropped 8.4% to $49,228.82 at 20:01 GMT on Saturda
+                        
                     </div>
 
 
