@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500;600&family=Roboto+Mono:ital,wght@0,100;0,300;0,500;0,700;1,600;1,700&family=Source+Code+Pro:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+
+.content-body{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.content-top{
+    width: 40%;
+    background-color: #171e1f;
+    height: 100vh;
+
+}
+.content-top-image{
+    height: 40vh;
+    width: 100%;;
+}
+
+.content-bottom{
+    margin: 15px;
+    border-radius: 25px;
+}
+
+.content-bottom p{
+    font-family: 'Manrope', sans-serif;
+    color: #d3eac7;
+    font-size: 23px;
+    padding-bottom: 10px;
+}
+.content-content{
+    color: #d3eac7;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 100;
+    font-size: 16;
+}
+@media only screen and (max-width:650px) {
+    .content-top{
+        width: 100%;
+    }
+}
