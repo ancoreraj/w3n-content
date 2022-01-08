@@ -1,26 +1,21 @@
 import React from 'react'
-import { FullPage, Slide } from 'react-full-page';
+import ReactPageScroller from 'react-page-scroller';
 import { Content } from './Content';
+
+
 export const ContentFull = () => {
     return (
-        <FullPage
-           duration={600}
+        <ReactPageScroller
+        animationTimer={650}
         >
-            <Slide>
-                <Content />
-            </Slide>
-            <Slide>
-                <Content />
-            </Slide>
-            <Slide>
-                <Content />
-            </Slide>
-            <Slide>
-                <Content />
-            </Slide>
-            <Slide>
-                <Content />
-            </Slide>
-        </FullPage>
+            <Content />
+            <Content />
+            <Content />
+            <Content />
+            <Content />
+            <Content />
+            <Content />
+            <Content /> 
+        </ReactPageScroller>
     )
 }
