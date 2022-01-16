@@ -6,7 +6,7 @@ import { Content } from './Content';
 export const ContentFull = () => {
     return (
         <ReactPageScroller
-        animationTimer={650}
+        animationTimer={550}
         >
             <Content />
             <Content />
